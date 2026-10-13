@@ -148,7 +148,7 @@ nav a:hover {
     margin: 0 auto 60px;
 }
 .titulo-secao > p:last-child {
-    color: #6e655c;
+    color: #2b0ed4;
 }
 .cards {
     display: grid;
@@ -235,7 +235,7 @@ nav a:hover {
     transition: 0.3s;
 }
 #reservas a:hover {
-    background-color: #a96f32;
+    background-color: #348eca;
 }
 #contato {
     padding: 100px 8%;
@@ -266,7 +266,7 @@ textarea {
 }
 input:focus,
 textarea:focus {
-    border-color: #a96f32;
+    border-color: #3b15c5;
 }
 textarea {
     resize: vertical;
@@ -276,7 +276,7 @@ form button {
 
     border: none;
 
-    background-color: #a96f32;
+    background-color: #122cc2;
 
     color: white;
 
@@ -289,7 +289,7 @@ form button {
     transition: 0.3s;
 }
 form button:hover {
-    background-color: #7d4f22;
+    background-color: #2c0eb1;
 }
 footer {
     padding: 60px 8% 30px;
@@ -319,5 +319,5 @@ footer img {
     transition: 0.3s;
 }
 .redes a:hover {
-    color: #c99b55;
+    color: #0d0ac7;
 }
